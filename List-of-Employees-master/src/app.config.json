@@ -1,0 +1,5 @@
+{
+  "development": {
+    "list_of_employees_url": "https://jsonplaceholder.typicode.com/users"
+  }
+}
